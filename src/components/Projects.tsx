@@ -32,7 +32,7 @@ const Projects: React.FC = () => {
     },
     {
       icon: Construction,
-      title: "Tuff Glas – B2B Brand Optimization",
+      title: "SR.Tuff Glass– B2B Brand Optimization",
       description: [
         "Audited existing digital footprint",
         "Implemented SEO + local strategy for niche glass hardware market",
@@ -40,7 +40,7 @@ const Projects: React.FC = () => {
       ],
       bgColor: "bg-secondary-700",
       iconColor: "bg-secondary-500",
-      link: "https://www.maneathesalon.com"
+      link: "https://srtuffglass.com/"
     },
     {
       icon: Bot,
@@ -57,7 +57,7 @@ const Projects: React.FC = () => {
     },
     {
       icon: MapPin,
-      title: "VisualAccent (Australia) – Local SEO & Social Launch",
+      title: "Hiveworks – Local SEO & Social Launch",
       description: [
         "Targeted plumbers, cleaners, and other Darwin-based businesses",
         "Executed full-site audit and keyword mapping",
